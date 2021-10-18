@@ -1,4 +1,4 @@
-# trakdilsapp
+# Vue Tailwind Boilerplate
 
 ## Project setup
 ```
